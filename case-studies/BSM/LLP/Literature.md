@@ -5,11 +5,11 @@
 - [Physics Briefing Book : Input for the European Strategy for Particle Physics Update 2020](https://cds.cern.ch/record/2691414/)
 
 ## HNL 
-- Sterile Neutrino Constraints - http://www.hep.ucl.ac.uk/~pbolton/index.html
-
+- Mapping the viable parameter space for testable leptogenesis -[arXiv:2106.16226](https://arxiv.org/abs/2106.16226)
 - Z-Boson Decays into Majorana or Dirac (Heavy) Neutrinos - [arXiv:2105.06576](https://arxiv.org/abs/2105.06576)
 - Feebly-Interacting Particles: FIPs 2020 Workshop Report - [arXiv:2102.12143](https://arxiv.org/abs/2102.12143)
 - Neutrinoless double beta decay versus other probes of heavy sterile neutrinos - [arXiv:1912.03058](https://arxiv.org/abs/1912.03058)
+- Sterile Neutrino Constraints - http://www.hep.ucl.ac.uk/~pbolton/index.html
 - Low-scale leptogenesis with three heavy neutrinos - [arXiv:1810.12463](https://arxiv.org/abs/1810.12463)
 - Resolvable heavy neutrino-antineutrino oscillations at colliders - [arXiv:1709.03797](https://arxiv.org/abs/1709.03797)
 - Sterile neutrino searches at future e−e+, pp, and e−p colliders - [arXiv:1612.02728](https://arxiv.org/abs/1612.02728)
